@@ -1,3 +1,11 @@
 /* html {
     font-family: 'Courier New', Courier, monospace;
 } */
+
+* {
+    notarule: 1;
+}
+
+body {
+    font-size: 12px    
+}
